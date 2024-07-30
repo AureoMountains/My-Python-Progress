@@ -17,3 +17,11 @@ if Permissão == 'pedro':
     while True:
         print = input('Documents, please')
         break
+
+def funcão_minha(valor1, valor2):
+    assert isinstance(valor2, object)
+    return valor1 + valor2
+
+resposta =  10 + 10
+
+print = input('a resposta é:')
