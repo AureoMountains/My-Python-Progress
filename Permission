@@ -1,0 +1,19 @@
+pessoa = {
+    'name': 'programador Java',
+    'Armor': 'stronger than you',
+    'age': 20
+}
+
+print(pessoa['name'])
+print(pessoa['Armor'])
+print(pessoa['age'])
+
+
+
+Permissão = 'pedro'
+
+if Permissão == 'pedro':
+    print('Denied')
+    while True:
+        print('denied', 'And theres no excuse')
+        break
