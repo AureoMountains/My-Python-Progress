@@ -1,12 +1,12 @@
 pessoa = {
-    'name': 'programador Java',
+    'nome': 'programador Java',
     'Armor': 'stronger than you',
-    'age': 20
+    'idade': 20
 }
 
-print(pessoa['name'])
+print(pessoa['nome'])
 print(pessoa['Armor'])
-print(pessoa['age'])
+print(pessoa['idade'])
 
 
 
@@ -15,5 +15,5 @@ Permissão = 'pedro'
 if Permissão == 'pedro':
     print('Denied')
     while True:
-        print('denied', 'And theres no excuse')
+        print = input('Documents, please')
         break
