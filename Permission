@@ -25,3 +25,11 @@ def funcão_minha(valor1, valor2):
 resposta =  10 + 10
 
 print = input('a resposta é:')
+
+Frutas = ['easy', 'stop', 'yes']
+
+Games = ['what']
+
+Frutas.extend(Games)
+
+print(Frutas)
