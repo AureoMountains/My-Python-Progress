@@ -1,0 +1,4 @@
+def henry_gordao(bigmac, mcdonalds):
+    print(henry_gordao, {} and {}.format(bigmac, mcdonalds))
+    result = bigmac + mcdonalds
+    return result
